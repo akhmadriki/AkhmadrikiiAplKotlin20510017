@@ -1,0 +1,2 @@
+# AkhmadrikiiAplKotlin20510017
+Aplikasi Sederhana
